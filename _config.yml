@@ -22,7 +22,7 @@ title: Huang Hing Pang [site building]
 email: huanghingpang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   some ideas here...
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thomashuang168.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hing_pang
 github_username:  ThomasHuang168
