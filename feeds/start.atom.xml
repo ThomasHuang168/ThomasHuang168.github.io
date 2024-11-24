@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thomas Huang personal blog - Start</title><link href="https://thomashuang168.github.io/" rel="alternate"></link><link href="https://thomashuang168.github.io/feeds/start.atom.xml" rel="self"></link><id>https://thomashuang168.github.io/</id><updated>2024-11-24T10:57:00+00:00</updated><entry><title>Webpage with Pelican</title><link href="https://thomashuang168.github.io/webpage-with-pelican.html" rel="alternate"></link><published>2024-11-24T10:57:00+00:00</published><updated>2024-11-24T10:57:00+00:00</updated><author><name>Huang Hing Pang</name></author><id>tag:thomashuang168.github.io,2024-11-24:/webpage-with-pelican.html</id><summary type="html">&lt;p&gt;I have long been thinking to make my personal website but I do not want to spend too much time on it. I need to focus on content instead of layout and the post help me to remember my old thought as well as my personal networking tool.&lt;/p&gt;
+&lt;p&gt;One day …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I have long been thinking to make my personal website but I do not want to spend too much time on it. I need to focus on content instead of layout and the post help me to remember my old thought as well as my personal networking tool.&lt;/p&gt;
+&lt;p&gt;One day my colleague recommended &lt;a href="https://github.com/P403n1x87/austin"&gt;P403n1x87/Austin&lt;/a&gt; to me and as a habit I also looked up to developer's &lt;a href="https://p403n1x87.github.io/"&gt;website&lt;/a&gt; and found &lt;a href="https://getpelican.com/"&gt;this awesome website management tool&lt;/a&gt;. I know there are better tools elsewhere but this is good enough for me to start my writing.&lt;/p&gt;
+&lt;p&gt;About how to host pelican on github pages, I refered to &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;https://pages.charlesreid1.com/how-do-i-pelican/Hosting/&lt;/li&gt;
+&lt;li&gt;https://gist.github.com/JosefJezek/6053301&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hope I will enjoy the journey and keep improving myself along the way.&lt;/p&gt;</content><category term="Start"></category></entry></feed>
